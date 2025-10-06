@@ -68,7 +68,7 @@ const Pages = () => {
           </Content>
 
           <Footer style={{ textAlign: "center", marginTop: "16px" }}>
-            Ant Design Layout Example ©2025 Created by ChatGPT
+            Ant Design Layout Example ©2025 
           </Footer>
         </Layout>
       </Layout>
